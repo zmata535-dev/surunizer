@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Surunizer
+Comment=Suru++ Image Customizer & Viewer
+Exec=/home/zm/Work/bin/surunizer %F
+Icon=surunizer
+Categories=Graphics;Viewer;2DGraphics;RasterGraphics;
+MimeType=image/png;image/jpeg;image/svg+xml;image/webp;image/bmp;image/x-icon;image/vnd.microsoft.icon;
+Terminal=false
+StartupNotify=true

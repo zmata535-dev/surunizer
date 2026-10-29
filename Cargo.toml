@@ -1,0 +1,17 @@
+[package]
+name = "surunizer"
+version = "0.1.0"
+edition = "2021"
+description = "Suru++ icon theme customizer and image viewer with palette recoloring, transparency keying, and crop adjustments"
+authors = ["zmata535-dev"]
+license = "MIT OR Apache-2.0"
+repository = "https://github.com/zmata535-dev/surunizer"
+
+[dependencies]
+eframe = "0.29"
+egui = "0.29"
+image = "0.25"
+rfd = "0.15"
+serde = { version = "1.0", features = ["derive"] }
+serde_json = "1.0"
+base64 = "0.22"
